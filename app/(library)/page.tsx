@@ -129,7 +129,7 @@ export default function HomePage() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between mb-8">
             <div>
-              <h2 className="text-2xl font-bold">Enseignements Video</h2>
+              <h2 className="text-2xl font-bold">Enseignements</h2>
               <p className="text-muted-foreground">
                 Predications et formations
               </p>

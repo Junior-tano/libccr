@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: 'Centre Chretien de Reveil - Librairie',
-  description: 'Librairie du Centre Chretien de Reveil - Podcasts, Enseignements Videos, E-books et Livres',
+  description: 'Librairie du Centre Chretien de Reveil - Podcasts, Enseignements , E-books et Livres',
   generator: 'v0.app',
   icons: {
     icon: [

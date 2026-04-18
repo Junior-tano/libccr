@@ -39,7 +39,7 @@ const navigation = [
   { name: "Hero Section", href: "/admin/hero", icon: Image },
   { name: "Programmes", href: "/admin/programs", icon: Calendar },
   { name: "Podcasts", href: "/admin/podcasts", icon: Mic },
-  { name: "Videos", href: "/admin/videos", icon: Video },
+  { name: "Enseignements", href: "/admin/videos", icon: Video },
   { name: "E-books", href: "/admin/ebooks", icon: BookOpen },
   { name: "Livres physiques", href: "/admin/books", icon: Book },
   { name: "Commandes", href: "/admin/orders", icon: ShoppingCart },

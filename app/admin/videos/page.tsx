@@ -125,11 +125,11 @@ export default function AdminVideosPage() {
       {/* ── Header ── */}
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
         <div>
-          <h1 className="text-2xl font-bold text-foreground">Gestion des Vidéos</h1>
+          <h1 className="text-2xl font-bold text-foreground">Gestion des Enseignements</h1>
           <p className="text-muted-foreground">Ajoutez et gérez vos enseignements vidéo</p>
         </div>
         <Button onClick={() => setIsSheetOpen(true)} className="bg-primary text-primary-foreground hover:bg-primary/90">
-          <Plus className="h-4 w-4 mr-2" />Ajouter une vidéo
+          <Plus className="h-4 w-4 mr-2" />Ajouter un enseignement
         </Button>
       </div>
 

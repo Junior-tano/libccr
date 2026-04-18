@@ -71,7 +71,7 @@ export default function VideosPage() {
               <Video className="h-7 w-7 text-primary" />
             </div>
             <div>
-              <h1 className="text-2xl md:text-3xl font-bold text-foreground">Enseignements Video</h1>
+              <h1 className="text-2xl md:text-3xl font-bold text-foreground">Enseignements</h1>
               <p className="text-muted-foreground">Predications, formations et messages edifiants</p>
             </div>
           </div>
